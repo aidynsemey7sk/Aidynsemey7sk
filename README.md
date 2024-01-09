@@ -2,6 +2,7 @@
 
 <a href="https://t.me/aidyn_semey">
   <img align="left" alt="telegram" width="22px" src="https://pngicon.ru/file/uploads/telegram-128x128.png">
+  Мой телеграм
 </a>
 
 </br>
