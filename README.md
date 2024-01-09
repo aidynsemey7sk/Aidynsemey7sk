@@ -4,8 +4,6 @@
   <img align="left" alt="telegram" width="22px" src="https://pngicon.ru/file/uploads/telegram-128x128.png">
 </a>
 
-<a href="https://pngicon.ru/znachok-telegramma.html"><img src="https://pngicon.ru/file/uploads/telegram-128x128.png" alt="телеграмм"></a>
-
 </br>
 
 ## Technology stack
